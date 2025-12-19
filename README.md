@@ -29,10 +29,7 @@ even remember some of the x86 specifics anymore also speaks a lot
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io)
 
 I'm exploring kernel development right now, studying up on xv6, both the book
-and the [6.1810](https://pdos.csail.mit.edu/6.1810/2024) class at MIT, I'll probably read _Modern Operating Systems_ later too
-
-
-
-
+and the [6.1810](https://pdos.csail.mit.edu/6.1810/2024) class at MIT, I'll probably read _Modern Operating Systems_ and some
+papers later too
 
 In the end, I'm just a curious teenager learning stuff I find cool
